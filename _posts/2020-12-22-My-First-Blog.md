@@ -1,4 +1,7 @@
-# My first blog
+---
+title: "My first blog"
+date: 2020-12-22
+---
 
 ### How to create wealth
 
